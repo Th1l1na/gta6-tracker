@@ -1,0 +1,52 @@
+{
+  "search_queries": [
+    "GTA 6",
+    "GTA VI",
+    "GTA 6 podcast",
+    "GTA 6 gameplay",
+    "GTA 6 shorts"
+  ],
+  "live_query": "GTA 6",
+  "watch_channels": [
+    "@RockstarGames"
+  ],
+  "twitch_categories": [
+    "Grand Theft Auto VI"
+  ],
+  "reddit_subs": [
+    "GTA6"
+  ],
+  "must_contain_any": [
+    "gta 6",
+    "gta vi",
+    "gta6",
+    "grand theft auto vi",
+    "grand theft auto 6",
+    "leonida",
+    "vice city"
+  ],
+  "exclude_keywords": [
+    "free download",
+    "apk",
+    "mobile download"
+  ],
+  "podcast_keywords": [
+    "podcast",
+    "episode",
+    " ep.",
+    " ep "
+  ],
+  "youtube_search_every_minutes": 120,
+  "repeat_live": false,
+  "lookback_hours": 24,
+  "top_n": 8,
+  "min_views": 1000,
+  "short_max_seconds": 180,
+  "send_when_empty": false,
+  "relevance_language": "en",
+  "region_code": "",
+  "utc_offset_minutes": 330,
+  "live_expire_minutes": 25,
+  "page_max_per_section": 60,
+  "only_new": true
+}

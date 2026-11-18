@@ -1,13 +1,15 @@
 # GTA 6 Content Tracker
 
-Every 10 minutes this checks for new content and sends your phone a ranked list of the hottest **new** GTA 6:
+Your own web page listing the hottest GTA 6 content right now, refreshed every 10 minutes:
 🔴 live streams · 📱 Shorts · 🎬 videos · 🎙️ podcasts · 📼 stream VODs · ✂️ Twitch clips · 💬 Reddit posts
 
-Items are ranked by **views per hour** (how fast they're blowing up), not total views, so you catch things early.
-You only get each item once, including live streams. You're alerted when a stream starts, not every 10 minutes after that.
-If nothing new turns up, you get no message.
+- Ranked by **views per hour**, so you spot things while they're blowing up
+- **NEW** badge on anything found in the last hour, **★** on creators you watch
+- Tap **✓** to mark a video you've already edited, then use **Hide used** to clear them away
+- Search box to find a creator or topic
 
-Everything is free. No PC needs to stay on, because it runs on GitHub's servers.
+Everything is free and runs on GitHub, so your computer doesn't need to stay on.
+Telegram and Discord alerts are optional extras. If you don't add those secrets, nothing is sent.
 
 ### How often each source is checked
 | Source | How often | Why |
@@ -16,7 +18,7 @@ Everything is free. No PC needs to stay on, because it runs on GitHub's servers.
 | Your watched YouTube channels (`watch_channels`) | every 10 min | uses the free RSS feed, so no quota |
 | YouTube keyword search and live search | every 2 hours | each search costs 100 of your 10,000 daily quota units |
 
-**Tip:** Add your 20–30 favourite GTA creators to `watch_channels` so you hear about their new uploads within about 10 minutes.
+**Tip:** Add your 20–30 favourite GTA creators to `watch_channels` so their new uploads appear on your page within about 10 minutes.
 
 ### ⚠️ Make the repository PUBLIC
 GitHub gives **public** repositories unlimited free run minutes. A private one gets only 2,000 minutes a month,
@@ -38,18 +40,9 @@ If you want to keep it private, change the schedule to `*/30 * * * *` (every 30 
 2. **Register Your Application**: any name; OAuth Redirect URL `http://localhost`; category "Other".
 3. Copy the **Client ID**, then click **New Secret** and copy the **Client Secret**.
 
-### 3. Get the alerts on your phone (pick one or both)
-**Telegram (recommended)**
-1. In Telegram, message **@BotFather** → `/newbot` → follow the steps → copy the **bot token**.
-2. Send any message to your new bot.
-3. Open `https://api.telegram.org/bot<YOUR_TOKEN>/getUpdates` in a browser and copy the number after `"chat":{"id":`. That's your **chat ID**.
-
-**Discord**
-- In your server: Channel settings → **Integrations** → **Webhooks** → **New Webhook** → **Copy URL**.
-
-### 4. Put it on GitHub
+### 3. Put it on GitHub
 1. Create a free account at https://github.com and make a **New repository**. Set it to **Public** (see the warning above).
-2. Click **uploading an existing file** and drag in *all* files from this folder, including the `.github` folder.
+2. Click **uploading an existing file** and drag in *all* files from this folder (including `page_template.html`) and the `.github` folder.
    (If the `.github` folder won't upload, create the file manually: **Add file → Create new file**, name it
    `.github/workflows/tracker.yml`, and paste the contents in.)
 3. In the repo go to **Settings → Secrets and variables → Actions → New repository secret** and add:
@@ -59,12 +52,16 @@ If you want to keep it private, change the schedule to `*/30 * * * *` (every 30 
 | `YOUTUBE_API_KEY` | from step 1 |
 | `TWITCH_CLIENT_ID` | from step 2 |
 | `TWITCH_CLIENT_SECRET` | from step 2 |
-| `TELEGRAM_BOT_TOKEN` | from step 3 |
-| `TELEGRAM_CHAT_ID` | from step 3 |
-| `DISCORD_WEBHOOK_URL` | from step 3 (optional) |
 
-### 5. Test it
-**Actions** tab → **GTA 6 Tracker** → **Run workflow**. Within about a minute you should get your first digest.
+(Optional: `DISCORD_WEBHOOK_URL`, or `TELEGRAM_BOT_TOKEN` + `TELEGRAM_CHAT_ID`, if you ever want phone alerts too.)
+
+### 4. Turn on the web page
+In the repo go to **Settings → Pages**. Under **Build and deployment → Source**, choose **GitHub Actions**.
+
+### 5. Start it
+**Actions** tab → **GTA 6 Tracker** → **Run workflow**. When it finishes (about 1 minute), open the run and
+tap the link under **Publish web page**. That's your page: **https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/**
+Bookmark it, or use **Add to Home Screen** so it opens like an app. (The page is public, but nobody will find it unless you share the link.)
 After that it runs by itself every 10 minutes. When GitHub is busy, runs can be a few minutes late.
 
 ---

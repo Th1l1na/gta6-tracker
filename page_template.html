@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#120a1f">
+<title>GTA 6 Tracker</title>
+<style>
+  :root{
+    --bg:#0e0918; --panel:#1a1229; --panel2:#231835; --line:#33264a;
+    --text:#f3eefc; --muted:#a395bd; --pink:#ff3d9a; --orange:#ff8a3d; --teal:#2ee6d6;
+    --yt:#ff3b3b; --tw:#9b5cff; --rd:#ff6a2b;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;background:var(--bg);color:var(--text);
+    font:15px/1.4 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+  a{color:inherit;text-decoration:none}
+  header{position:sticky;top:0;z-index:5;background:linear-gradient(180deg,#1b0f2e 0%,rgba(14,9,24,.96) 100%);
+    backdrop-filter:blur(8px);border-bottom:1px solid var(--line);padding:14px 14px 0}
+  .top{display:flex;align-items:center;justify-content:space-between;gap:10px}
+  h1{margin:0;font-size:22px;letter-spacing:.5px;font-weight:800;
+    background:linear-gradient(90deg,var(--pink),var(--orange));-webkit-background-clip:text;background-clip:text;color:transparent}
+  .stamp{font-size:12px;color:var(--muted);text-align:right}
+  .stamp b{color:var(--teal);font-weight:600}
+  .tools{display:flex;gap:8px;margin:12px 0 10px}
+  .tools input{flex:1;min-width:0;background:var(--panel);border:1px solid var(--line);color:var(--text);
+    border-radius:10px;padding:9px 12px;font-size:15px;outline:none}
+  .tools input:focus{border-color:var(--pink)}
+  .tools button{background:var(--panel);border:1px solid var(--line);color:var(--muted);border-radius:10px;
+    padding:0 12px;font-size:13px;white-space:nowrap}
+  .tools button.on{color:var(--text);border-color:var(--teal)}
+  .tabs{display:flex;gap:6px;overflow-x:auto;padding-bottom:12px;scrollbar-width:none}
+  .tabs::-webkit-scrollbar{display:none}
+  .tab{flex:none;padding:7px 12px;border-radius:999px;background:var(--panel);border:1px solid var(--line);
+    color:var(--muted);font-size:13px;font-weight:600;white-space:nowrap}
+  .tab .n{opacity:.7;font-weight:500;margin-left:4px}
+  .tab.on{background:linear-gradient(90deg,var(--pink),var(--orange));color:#1a0b12;border-color:transparent}
+  main{padding:12px 12px 60px;max-width:900px;margin:0 auto}
+  h2{font-size:15px;margin:22px 4px 10px;display:flex;justify-content:space-between;align-items:baseline}
+  h2:first-child{margin-top:6px}
+  h2 .more{font-size:13px;color:var(--pink);font-weight:600}
+  .list{display:grid;gap:10px}
+  @media(min-width:720px){.list{grid-template-columns:1fr 1fr}}
+  .card{display:flex;gap:11px;background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:9px;
+    position:relative;transition:opacity .2s}
+  .card.used{opacity:.38}
+  .thumb{flex:none;width:132px;aspect-ratio:16/9;border-radius:9px;background:var(--panel2) center/cover no-repeat;position:relative;overflow:hidden}
+  .thumb .dur{position:absolute;right:4px;bottom:4px;background:rgba(0,0,0,.8);font-size:11px;padding:1px 5px;border-radius:4px}
+  .thumb.noimg{display:flex;align-items:center;justify-content:center;font-size:26px}
+  .body{min-width:0;flex:1;display:flex;flex-direction:column;gap:4px}
+  .title{font-weight:600;font-size:14px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+  .meta{font-size:12px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .badges{display:flex;gap:5px;flex-wrap:wrap;align-items:center;margin-top:auto}
+  .b{font-size:10.5px;font-weight:700;padding:2px 6px;border-radius:5px;letter-spacing:.3px;text-transform:uppercase}
+  .b.yt{background:rgba(255,59,59,.16);color:#ff7272}
+  .b.tw{background:rgba(155,92,255,.18);color:#bb93ff}
+  .b.rd{background:rgba(255,106,43,.16);color:#ff9a6b}
+  .b.new{background:var(--teal);color:#06201d}
+  .b.live{background:var(--yt);color:#fff;animation:pulse 1.6s infinite}
+  .b.star{background:rgba(255,200,61,.18);color:#ffd36b}
+  @keyframes pulse{50%{opacity:.55}}
+  .use{position:absolute;top:7px;right:7px;width:26px;height:26px;border-radius:8px;border:1px solid var(--line);
+    background:var(--panel2);color:var(--muted);font-size:13px;display:flex;align-items:center;justify-content:center}
+  .card.used .use{background:var(--teal);color:#06201d;border-color:transparent}
+  .card .body{padding-right:26px}
+  .empty{color:var(--muted);text-align:center;padding:50px 20px}
+  footer{color:var(--muted);font-size:12px;text-align:center;padding:10px 20px 30px}
+</style>
+</head>
+<body>
+<header>
+  <div class="top">
+    <h1>GTA 6 TRACKER</h1>
+    <div class="stamp">Updated <b id="ago">–</b><br><span id="total"></span></div>
+  </div>
+  <div class="tools">
+    <input id="q" type="search" placeholder="Search titles or creators…" autocomplete="off">
+    <button id="hide">Hide used</button>
+  </div>
+  <nav class="tabs" id="tabs"></nav>
+</header>
+<main id="main"></main>
+<footer>Ranked by growth speed (views per hour). Tap ✓ to mark something you've already edited.<br>The page refreshes itself.</footer>
+
+<script id="data" type="application/json">__DATA__</script>
+<script>
+(function(){
+  var D = JSON.parse(document.getElementById('data').textContent);
+  var ICON = {live:'🔴',short:'📱',video:'🎬',podcast:'🎙️',stream_vod:'📼',clip:'✂️',reddit:'💬'};
+  var state = {tab:'all', q:'', hide:false};
+  var used = {};
+  try { used = JSON.parse(localStorage.getItem('gta6used') || '{}'); state.hide = localStorage.getItem('gta6hide') === '1'; } catch(e){}
+  function save(){ try{ localStorage.setItem('gta6used', JSON.stringify(used)); localStorage.setItem('gta6hide', state.hide?'1':'0'); }catch(e){} }
+
+  function esc(s){ return String(s == null ? '' : s).replace(/[&<>"']/g, function(c){ return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]; }); }
+  function ago(ts){ var m = Math.round((Date.now()/1000 - ts)/60); if(m < 1) return 'just now'; if(m < 60) return m+' min ago'; var h = Math.round(m/60); return h+'h ago'; }
+  function pcls(p){ return p === 'YouTube' ? 'yt' : p === 'Twitch' ? 'tw' : 'rd'; }
+
+  function visible(){
+    var q = state.q.toLowerCase();
+    return D.items.filter(function(it){
+      if(state.hide && used[it.id]) return false;
+      if(q && (it.title + ' ' + it.creator).toLowerCase().indexOf(q) < 0) return false;
+      return true;
+    });
+  }
+
+  function card(it){
+    var isNew = (Date.now()/1000 - it.first_seen) < 3600;
+    var th = it.thumb
+      ? '<div class="thumb" style="background-image:url(\'' + esc(it.thumb) + '\')">' + (it.duration ? '<span class="dur">'+esc(it.duration)+'</span>' : '') + '</div>'
+      : '<div class="thumb noimg">' + (ICON[it.kind] || '•') + '</div>';
+    return '<div class="card' + (used[it.id] ? ' used' : '') + '" data-id="' + esc(it.id) + '">' +
+      '<a href="' + esc(it.url) + '" target="_blank" rel="noopener">' + th + '</a>' +
+      '<a class="body" href="' + esc(it.url) + '" target="_blank" rel="noopener">' +
+        '<div class="title">' + esc(it.title) + '</div>' +
+        '<div class="meta">' + esc(it.creator) + '</div>' +
+        '<div class="meta">' + esc(it.metric) + '</div>' +
+        '<div class="badges">' +
+          (it.kind === 'live' ? '<span class="b live">Live</span>' : '') +
+          '<span class="b ' + pcls(it.platform) + '">' + esc(it.platform) + '</span>' +
+          (isNew ? '<span class="b new">New</span>' : '') +
+          (it.watched ? '<span class="b star">★ Watched</span>' : '') +
+        '</div>' +
+      '</a>' +
+      '<button class="use" title="Mark as used">✓</button>' +
+    '</div>';
+  }
+
+  function render(){
+    var items = visible();
+    var counts = {}; items.forEach(function(i){ counts[i.kind] = (counts[i.kind]||0) + 1; });
+    var tabs = '<button class="tab' + (state.tab==='all'?' on':'') + '" data-tab="all">🔥 All<span class="n">' + items.length + '</span></button>';
+    D.sections.forEach(function(s){
+      if(!counts[s.kind]) return;
+      tabs += '<button class="tab' + (state.tab===s.kind?' on':'') + '" data-tab="' + s.kind + '">' + esc(s.label.replace(/^\S+\s/, ICON[s.kind] + ' ')) + '<span class="n">' + counts[s.kind] + '</span></button>';
+    });
+    document.getElementById('tabs').innerHTML = tabs;
+
+    var html = '';
+    if(state.tab === 'all'){
+      D.sections.forEach(function(s){
+        var g = items.filter(function(i){ return i.kind === s.kind; });
+        if(!g.length) return;
+        html += '<h2><span>' + esc(s.label) + '</span>' + (g.length > 6 ? '<a class="more" href="#" data-tab="' + s.kind + '">See all ' + g.length + ' →</a>' : '') + '</h2>';
+        html += '<div class="list">' + g.slice(0, 6).map(card).join('') + '</div>';
+      });
+    } else {
+      var g = items.filter(function(i){ return i.kind === state.tab; });
+      html = '<div class="list">' + g.map(card).join('') + '</div>';
+      if(!g.length) state.tab = 'all';
+    }
+    document.getElementById('main').innerHTML = html || '<div class="empty">Nothing here yet. The tracker checks again within 10 minutes.</div>';
+    document.getElementById('ago').textContent = ago(D.generated);
+    document.getElementById('total').textContent = D.items.length + ' items tracked';
+    document.getElementById('hide').className = state.hide ? 'on' : '';
+  }
+
+  document.addEventListener('click', function(e){
+    var t = e.target.closest('[data-tab]');
+    if(t){ e.preventDefault(); state.tab = t.getAttribute('data-tab'); render(); window.scrollTo(0,0); return; }
+    var u = e.target.closest('.use');
+    if(u){ var id = u.parentNode.getAttribute('data-id'); if(used[id]) delete used[id]; else used[id] = Date.now(); save(); render(); return; }
+    if(e.target.id === 'hide'){ state.hide = !state.hide; save(); render(); }
+  });
+  document.getElementById('q').addEventListener('input', function(e){ state.q = e.target.value; render(); });
+
+  render();
+  setInterval(function(){ document.getElementById('ago').textContent = ago(D.generated); }, 30000);
+  // reload for fresh data every few minutes, but not while you're typing a search
+  setInterval(function(){ if(!state.q && document.visibilityState === 'visible') location.reload(); }, 5 * 60 * 1000);
+})();
+</script>
+</body>
+</html>
