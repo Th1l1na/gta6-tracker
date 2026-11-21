@@ -1,157 +1,157 @@
-🎮 *GTA 6 Tracker* — Sat 21 Nov, 06:04 PM
+🎮 *GTA 6 Tracker* — Sun 22 Nov, 01:16 AM
 
 *🔴 LIVE NOW*
-1. GTA 6 É O MAIOR JOGO DE TODOS OS TEMPOS VAMOS JOGAR INFINITO
-   Gameplayrj · YouTube · 35.6K watching
-   https://youtu.be/-isRxm6m2c8
-2. (DROPS)🌴GTA VI🌴ФИНАЛ🔥 МАРАФОН w/ @shadowkekw @mokrivskyi
-   evelone2004 · Twitch · 35.5K watching
-   https://twitch.tv/evelone2004
-3. (DROPS) 🦩🌴 100+ STUNDEN GTA 6 STREAM 🦩🌴 TAG 4 🦩🌴 ALLES ERKUNDEN UND 100% DURCHZOCKEN 🦩🌴  !
-   zarbex · Twitch · 27.1K watching
-   https://twitch.tv/zarbex
-4. Exploring GTA 6 SUPERCARS and FULL MAP! GTA 6 LIVE with Mythpat
-   Mythpat · YouTube · 16.3K watching
-   https://youtu.be/jSZK6H7AgBI
-5. 🔴(GTA6)  CHAPTER II 32%
-   TUI TÊN BÔ · YouTube · 13.6K watching
-   https://youtu.be/PGxRtliseDE
-6. Grand Theft Apple
-   Jerma985 · Twitch · 13.1K watching
-   https://twitch.tv/jerma985
-7. ⚡️МАРАФОН GTA 6 | 60 FPS | ДЕНЬ 3
-   Leb1ga · Twitch · 12.6K watching
-   https://twitch.tv/leb1ga
-8. 🔴 2K 60 FPS 🔴 ИЩУ ПАСХАЛКИ 🔴 GTA 6 🔴 DAY 4 🔴 !планы
-   bratishkinOFF · Twitch · 10.4K watching
-   https://twitch.tv/bratishkinoff
+1. GTA 6 e 10 PS5 PRA VOCÊS HOJE! 🔴 Paulinho o LOKO #5
+   PAULINHO O LOKO · YouTube · 75.1K watching
+   https://youtu.be/a-Ur3A_kHXc
+2. CÓDIGOS PARA SUBS 🚨 !DROPS ON 🌴 GTA VI INJUGABLE 🌴 LO DIGO Y ME DOY EL LUJAZO Lo funan
+   auronplay · Twitch · 54.7K watching
+   https://twitch.tv/auronplay
+3. 🔴(DROPS) GTA 6 FULL PLAYTHROUGH🔴
+   ohnePixel · Twitch · 42.0K watching
+   https://twitch.tv/ohnepixel
+4. GTA VI...... #4
+   MixiGaming · YouTube · 40.5K watching
+   https://youtu.be/kIgCgWFHA_U
+5. sabadão com mais gta 6 bb
+   alanzoka · Twitch · 39.0K watching
+   https://twitch.tv/alanzoka
+6. 🔴GTA 6 | DIA 4 MODO HISTORIA (EN DIRECTO) DjMaRiiO
+   DjMaRiiO · YouTube · 20.2K watching
+   https://youtu.be/aXmFw6Lt60w
+7. 🦩GTA 6 PLAYTHROUGH🦩60 FPS GAMEPLAY🦩I LIKE THE GAME🦩SHUT UP🦩EXCLUSIVE BADGE🦩GOOD VIBES🦩(twi
+   stableronaldo · Twitch · 18.3K watching
+   https://twitch.tv/stableronaldo
+8. GTAing Pt. 4 of ?
+   LIRIK · Twitch · 16.2K watching
+   https://twitch.tv/lirik
 
 *📱 HOT SHORTS*
-1. 选择心仪的物品#gta  #gta6  #shorts [0:51]
-   猎魔的契约 · YouTube · 18.7M views · 795.8K/hr · 24h ago
-   https://youtu.be/WI2bMmn4nUQ
-2. 双人跳舞#gta  #gta6  #shorts [0:10]
-   猎魔的契约 · YouTube · 13.6M views · 659.1K/hr · 21h ago
-   https://youtu.be/zi_weRzJV3E
-3. 一起舞蹈#gta  #gta6  #shorts [0:11]
-   猎魔的契约 · YouTube · 2.8M views · 292.8K/hr · 10h ago
-   https://youtu.be/C9JN3GA4Mf0
-4. Cuando Juegas demasiado GTA 6⚠️😡#comedia [0:17]
-   Rossi · YouTube · 4.2M views · 233.8K/hr · 18h ago
-   https://youtu.be/AIUSay0A79c
-5. ME SACARON DE LA FILA DE GTA 6 [1:27]
-   Santy con y · YouTube · 3.0M views · 169.1K/hr · 18h ago
-   https://youtu.be/_-_xn3lLftA
-6. the weirdest gta 6 experience 🫪 [0:53]
-   Bundun · YouTube · 1.7M views · 112.8K/hr · 15h ago
-   https://youtu.be/p36qu2ldSh4
-7. GYA 6 तो बहुत बड़ा है 😱🎮 #gta6 #shorts #trending #funny #comedy [0:59]
-   sk Sonu  · YouTube · 828.0K views · 70.1K/hr · 12h ago
-   https://youtu.be/iWh8T3nc92w
-8. Cooking a GTA VI themed meal outside (I got kicked out) [0:44]
-   Chef Tyler · YouTube · 2.0M views · 86.0K/hr · 23h ago
-   https://youtu.be/shNS4fZDpYw
+1. PLAYING GTA 6😭😱❤️#relatable #gaming #gta6 #ps5 #kids #fun #childhood #relatable #viral #tr [1:00]
+   Akku Patil2 · YouTube · 11.6M views · 670.7K/hr · 17h ago
+   https://youtu.be/j1yn1Ay4YTA
+2. 哇好多的金币#gta  #gta6  #shorts [0:19]
+   GTA6‑狂野世界 · YouTube · 4.1M views · 533.1K/hr · 8h ago
+   https://youtu.be/5T5k78MsN4s
+3. $1 v $1,000,000 Car In GTA 6 [0:46]
+   MrBeast Gaming · YouTube · 7.0M views · 354.6K/hr · 20h ago
+   https://youtu.be/XUTsngATFUk
+4. Who Escapes? BJ vs Jason vs Lucia! 😱💦 #gta6 #shorts [0:12]
+   ALEX KING · YouTube · 3.7M views · 400.6K/hr · 9h ago
+   https://youtu.be/VvPLnU7KU9A
+5. Can My Brother Enter the GTA 6 Military Base ? 😱 [2:33]
+   Scalpo · YouTube · 3.7M views · 280.8K/hr · 13h ago
+   https://youtu.be/MNC72z0cPak
+6. I GOT him the GTA VI 👀😍 #shorts #couple #gtavi [1:08]
+   NickandCarrie · YouTube · 2.3M views · 245.1K/hr · 9h ago
+   https://youtu.be/yD4J4ruKajA
+7. 他们为什么要阻止他#gta  #gta6  #shorts [0:28]
+   GTA6‑狂野世界 · YouTube · 2.6M views · 293.4K/hr · 9h ago
+   https://youtu.be/Opv_mVDoRuk
+8. I BEAT GTA 6! [0:35]
+   IShowSpeed · YouTube · 4.5M views · 196.0K/hr · 23h ago
+   https://youtu.be/kVk_Nwca6Wk
 
 *🎬 HOT VIDEOS*
-1. GTA 6 User Reviews Are Finally Out.. [3:37]
-   Asmongold Clips · YouTube · 2.7M views · 214.7K/hr · 13h ago
-   https://youtu.be/NBV_oeNEaxw
-2. GTA 6 - Best Ending (True Ending) Grand Theft Auto VI [11:20]
-   Ben-Gun · YouTube · 1.1M views · 87.7K/hr · 13h ago
-   https://youtu.be/CXsSTUHr8ww
-3. GTA VI | Симулятор бытовухи для одиночек вместо кровавого беспредела (English subtitles) [15:27]
-   Максим Кац · YouTube · 991.4K views · 48.0K/hr · 21h ago
-   https://youtu.be/mTy4rpUI-DQ
-4. MI PRIMERA VEZ JUGANDO CARRERAS EN GTA 6 [32:05]
-   DaniRep | +6 Vídeos Diarios De GTA 5 Online! · YouTube · 1.3M views · 55.4K/hr · 23h ago
-   https://youtu.be/41NYegoFV0I
-5. Can You Live a Normal Life in GTA 6? [23:19]
-   Arean · YouTube · 1.1M views · 53.5K/hr · 20h ago
-   https://youtu.be/1GeQU0SEC-E
-6. 15 Early Game Mistakes NOBODY Warned Me About (GTA 6) [16:22]
-   Vexies · YouTube · 948.4K views · 49.6K/hr · 19h ago
-   https://youtu.be/r3oAEokOT5w
-7. Stealing MILLIONAIRE SUPERCARS in GTA 6 [21:35]
-   Caylus   · YouTube · 977.7K views · 46.1K/hr · 21h ago
-   https://youtu.be/y2VpDEDI_34
-8. Grand Theft Auto 6 keeps blowing me away... [59:11]
-   jackfrags · YouTube · 648.0K views · 41.6K/hr · 16h ago
-   https://youtu.be/1XE_28aP3KU
+1. I Played GTA 6 on a Private Island | SlayyPop [35:44]
+   SlayyPop · YouTube · 1.2M views · 103.9K/hr · 11h ago
+   https://youtu.be/rSG17rN0Yp4
+2. The PERFECT Heist in GTA 6 (No Cops, No Alarms) [15:50]
+   Nemsk · YouTube · 1.2M views · 55.6K/hr · 21h ago
+   https://youtu.be/RKHyVcR0aZc
+3. I Busted 20 Myths In GTA 6.. [13:28]
+   FoltynGaming · YouTube · 695.8K views · 51.5K/hr · 14h ago
+   https://youtu.be/lKUWrfgq0PY
+4. GTA 6 - ALL 9 Endings Story Explained (Jason & Lucia Cutscenes) [15:24]
+   TheGamingRevolution · YouTube · 467.0K views · 47.5K/hr · 10h ago
+   https://youtu.be/B0b5JhrGUJQ
+5. GTA 6 DA SADECE 1 TANE OLAN GİZLİ ARABAYI BULDUM - GTA 6 [37:59]
+   TÜRKPRO · YouTube · 506.9K views · 39.7K/hr · 13h ago
+   https://youtu.be/c5WDbC0qpaI
+6. GTA 6 All 5 Endings Explained (Grand Theft Auto 6 Story) [3:17]
+   TheGamingRevolution · YouTube · 856.6K views · 40.6K/hr · 21h ago
+   https://youtu.be/T8VNrypH48o
+7. This FNAF Looks More Real Than GTA 6.. [14:15]
+   Aimin · YouTube · 637.6K views · 29.3K/hr · 22h ago
+   https://youtu.be/hZqIFuV-3uQ
+8. Stealing a $100 MILLION FIGHTER JET in GTA 6!😱(6 STAR CHASE) [29:21]
+   Dattrax Plays · YouTube · 356.8K views · 26.9K/hr · 13h ago
+   https://youtu.be/PlYwN91Xm2A
 
 *🎙️ PODCASTS*
-1. 🔴LIVE! GTA VI DAY 2 THEN DEADLOCK (also live on twitch) [11:48:54]
-   Valkyrae · YouTube · 186.2K views · 63.1K/hr · 3h ago
-   https://youtu.be/U1IEKK6Xv88
-2. GTA 6 Game Review - Hidden Subliminal Message | Paari Saalan - Varun Tamil podcast [49:54]
-   Vallal Media · YouTube · 129.6K views · 16.1K/hr · 8h ago
-   https://youtu.be/rmVpKOfWWbc
-3. GTA 6 - ATÉ ZERAR...AGORA VAI  - RODRIGÃO PODCAST 3 IRMÃOS - AO VIVO [10:06:58]
-   Cortes Podcast 3 Irmãos [OFICIAL] · YouTube · 97.9K views · 17.2K/hr · 6h ago
-   https://youtu.be/-eOgum6Vn-k
-4. GTA 6: Top 100 WTF & Funny Moments #2 [14:59]
-   RespawnTV · YouTube · 415.0K views · 18.6K/hr · 22h ago
-   https://youtu.be/Dbu25BlrxR4
-5. @HiSaimanSays Talks About GTA, Big Boss & Content Creation [1:51:16]
-   Honestly Saying Podcast · YouTube · 28.1K views · 3.7K/hr · 8h ago
-   https://youtu.be/G9MsPxVFpWI
-6. EVERY Rap Song Featured In GTA 6 🎶🎮 #KodakBlack #Drake #Future #GTA6 #NFRPodcast [2:07]
-   NFR Plus · YouTube · 39.1K views · 2.9K/hr · 14h ago
-   https://youtu.be/yskoYQ1AKuA
-7. Comedians in GTA 6 [11:42]
-   Joke WRLD · YouTube · 21.1K views · 2.0K/hr · 10h ago
-   https://youtu.be/d-L1t7s8Xg4
-8. Rockstar hid 4 GTA legends inside GTA 6… [0:25]
-   LoreDrop · YouTube · 47.6K views · 2.5K/hr · 19h ago
-   https://youtu.be/Ta-czoloGlU
+1. ❤️🥏SAVE GTA 6 CHARACTERS BY STOPPING THE FALL OF DISKS | HOW TO STOP GAS? #shorts #gta6 [0:23]
+   ALEX VICE RUSH · YouTube · 1.5M views · 68.8K/hr · 22h ago
+   https://youtu.be/uXcv8mmmuoo
+2. 🔴LIVE - EPISODE 4 : GTA 6 ! [10:52:54]
+   Feekz  · YouTube · 215.1K views · 19.7K/hr · 11h ago
+   https://youtu.be/a5KxGDlKb90
+3. GTA 6 FAILS - #4 (GTA 6 Funny Moments) [21:09]
+   Red Arcade · YouTube · 254.3K views · 11.7K/hr · 22h ago
+   https://youtu.be/2gZBH3BRRqo
+4. Why Bill Burr WON'T Be Playing GTA 6 [0:49]
+   Bill Burr · YouTube · 21.4K views · 3.7K/hr · 6h ago
+   https://youtu.be/aVlmvfInZ6c
+5. Sorry Urmila💀, Anything For Good Ending😝 #shorts #ranveerallahbadia #mythpat #podcast #gta [0:38]
+   Hindi Podcasts · YouTube · 33.0K views · 3.1K/hr · 11h ago
+   https://youtu.be/mIjDFAxl6dk
+6. PKA Reviews GTA 6 [31:46]
+   Painkiller Historian · YouTube · 9.4K views · 1.4K/hr · 7h ago
+   https://youtu.be/3shkbXQsqMY
+7. Jensen Pleacă de la NVIDIA, Anthropic la Bursă, GTA 6 e Aici, Starship Prinsă de Turn #CUR [2:14:07]
+   George Buhnici · YouTube · 20.4K views · 1.6K/hr · 13h ago
+   https://youtu.be/TCyBkra3JL8
+8. When Will GTA 7 Come Out? Franklin's Prediction 👀 #gta7 [0:21]
+   Clipvault123 · YouTube · 33.7K views · 1.2K/hr · 28h ago
+   https://youtu.be/SGrxTatZGNM
 
 *📼 STREAM VODs*
-1. ( RESTREAM ) MEGA LIVE PHÁ ĐẢO GTA 6 CÙNG ABEN | NGÀY 3 [8:47:17]
-   ABEN · YouTube · 384.3K views · 1.5M/hr · 0h ago
-   https://youtu.be/yz-IEnm-pWk
-2. 🚨GTA VI IS CRAZY! LIVE NOW!🚨 [8:05:30]
-   MaavRickk · YouTube · 4.5M views · 421.5K/hr · 11h ago
-   https://youtu.be/UvJ3n3BInvg
-3. 🔴 LIVE! - PLAYING GTA 6 RIGHT NOW! (PS5 PRO) [5:47:37]
-   Typical Gamer · YouTube · 608.8K views · 310.2K/hr · 2h ago
-   https://youtu.be/PDqRBXHcTxo
-4. GTA 6 LIVE Gameplay Hindi | Grand Theft Auto VI | Exploring Vice City for the First Time!  [2:08:58]
-   Thunder GOD Live · YouTube · 1.4M views · 255.1K/hr · 5h ago
-   https://youtu.be/Zwpc73JMZF0
-5. JASON VLOGS EM AÇÃO TERCEIRO DIA DE GTA 6 l JON VLOGS AO VIVO [11:54:59]
-   Jon Vlogs · YouTube · 429.8K views · 213.8K/hr · 2h ago
-   https://youtu.be/dUnPGbaydTE
-6. SABTU BARENG GTA VI Part 3 [11:32:06]
-   CADERAA · YouTube · 269.5K views · 181.0K/hr · 1h ago
-   https://youtu.be/sSEYMnQ5smk
-7. 🔴 LIVE! - PLAYING GTA 6 RIGHT NOW! [3:36:59]
-   Typical Gamer · YouTube · 934.5K views · 119.5K/hr · 8h ago
-   https://youtu.be/JVXbhH7NRGw
-8. GTA 6 | FULL GAME | PART 1 [14:07:54]
-   CaseOh · YouTube · 1.1M views · 83.4K/hr · 14h ago
-   https://youtu.be/AITUq3aW_8w
+1. LUCIA MENEMUKAN BAYI ALIEN DAN UFO.... Grand Theft Auto VI GAMEPLAY #5 [4:57:16]
+   Windah Basudara · YouTube · 3.0M views · 1.5M/hr · 2h ago
+   https://youtu.be/lF_QYSm2T-Q
+2. MY GIRLFRIEND IS BACK | GTA 6 GAMEPLAY #3 [1:43:04]
+   Techno Gamerz · YouTube · 4.4M views · 568.5K/hr · 8h ago
+   https://youtu.be/1O_GCgCu-j4
+3. GTA 6 DAY 3 :THE VICE CITY TAKEOVER [9:57:23]
+   Snax Gaming · YouTube · 1.1M views · 461.5K/hr · 2h ago
+   https://youtu.be/iyxP3wCTtP4
+4. ЭЦЭСТ НЬ GTA VI ТОГЛОВ 😭 (Day 3) [10:56:32]
+   Gremix Gaming · YouTube · 261.6K views · 203.2K/hr · 1h ago
+   https://youtu.be/YB1vtCs_N-g
+5. GTA 6 LIVE Gameplay Hindi | Grand Theft Auto VI | Exploring Vice City for the First Time!  [2:30:28]
+   Thunder GOD Live · YouTube · 1.3M views · 171.1K/hr · 8h ago
+   https://youtu.be/2aaRtJSsnv8
+6. Vimzz in Vice city🤩 Grand Theft Auto GTA 6 (60fps)| Epi 04 | Manguni Gamer [6:06:43]
+   Manguni Gamer · YouTube · 258.9K views · 141.2K/hr · 2h ago
+   https://youtu.be/ciT5QrOyhts
+7. GTA 6 - CHAPTER 3 CONTINUES! Playing GTA 6 for the First Time [11:33:40]
+   TGG · YouTube · 458.4K views · 131.1K/hr · 3h ago
+   https://youtu.be/c88810jEKMw
+8. 🔴 LIVE | GTA VI | IT'S FINALLY HERE (Portrait) [2:26:52]
+   Jex · YouTube · 1.2M views · 115.3K/hr · 10h ago
+   https://youtu.be/jAE6Gg_qvJ0
 
 *✂️ TWITCH CLIPS*
-1. BauPenner VS Kuh 🤣🤣🤣 [0:19]
-   BauPenner · Twitch · 1.4K views · 2h ago
-   https://www.twitch.tv/baupenner/clip/FunAdorableTitanRaccAttack-l1bsjG2h1DD3qr0K
-2. ohnePixel says GTA 6 gets him more bricked up than porn [0:22]
-   ohnePixel · Twitch · 5.4K views · 24h ago
-   https://www.twitch.tv/ohnepixel/clip/MoldyRespectfulOstrichPartyTime-xKoKzoNh9OvfuiNS
-3. toma gato [0:13]
-   IlloJuan · Twitch · 4.0K views · 18h ago
-   https://www.twitch.tv/illojuan/clip/DignifiedAggressiveZebraCoolStoryBro-Jx6dSpRu2uUcadeI
-4. beef slap [0:48]
-   caseoh_ · Twitch · 4.9K views · 22h ago
-   https://www.twitch.tv/caseoh_/clip/EntertainingSillyDeerBleedPurple-PZTfsHBXFv6f_vDq
-5. Gavin hates polar bears [0:25]
-   theregulationpod · Twitch · 3.6K views · 18h ago
-   https://www.twitch.tv/theregulationpod/clip/GiftedUninterestedFishCharlietheUnicorn-XJGPUVMfRTYD7VBn
-6. RICH STREAMER ENJOYING!! [0:44]
-   ohnePixel · Twitch · 3.1K views · 17h ago
-   https://www.twitch.tv/ohnepixel/clip/CaringFunnySrirachaOSfrog-CPLxPX0JVwrIruwO
-7. nah jason lmfao [0:23]
-   Bilzo · Twitch · 4.0K views · 22h ago
-   https://www.twitch.tv/bilzo/clip/MuddyAlluringAardvarkTBTacoRight-vsA4rzpgh_WD7ArG
-8. CAUGHT [0:25]
-   stableronaldo · Twitch · 3.4K views · 19h ago
-   https://www.twitch.tv/stableronaldo/clip/IgnorantDeliciousClamVoHiYo-uGGhZngq_sR2PCqo
+1. kyle 1 [1:00]
+   caseoh_ · Twitch · 3.9K views · 6h ago
+   https://www.twitch.tv/caseoh_/clip/OddSweetToadMVGame-GtoXLBw9qz8XcLCg
+2. Худшая из возможных концовок [0:59]
+   evelone2004 · Twitch · 1.8K views · 4h ago
+   https://www.twitch.tv/evelone2004/clip/RelievedMoldySeahorseMcaT-3biZbet87pByQzJi
+3. kyle 2 [1:00]
+   caseoh_ · Twitch · 1.4K views · 6h ago
+   https://www.twitch.tv/caseoh_/clip/PolishedDirtyOtterFunRun-Uz0aNrAhtbOQlzg7
+4. Leute fallen auf Wutköder Video rein [0:51]
+   MontanaBlack88 · Twitch · 2.7K views · 12h ago
+   https://www.twitch.tv/montanablack88/clip/EmpathicKathishPeanutTheRinger-wv5wLBedZtgN01zu
+5. W DONUT SMP TAXES - Clip 3 [0:34]
+   DrDonutttttt · Twitch · 3.8K views · 17h ago
+   https://www.twitch.tv/drdonutttttt/clip/ZanyFantasticWolverineCoolCat-FMXQCyIb1vOYiJ6r
+6. Улетела шваль [0:30]
+   notLIBERAST · Twitch · 2.2K views · 9h ago
+   https://www.twitch.tv/notliberast/clip/HardThirstyPandaCeilingCat-k9qTCfqttljVUM9K
+7. La serpiente [0:19]
+   IlloJuan · Twitch · 5.3K views · 24h ago
+   https://www.twitch.tv/illojuan/clip/ObeseBenevolentKalePanicBasket-GgzSln1vRdDwXq-D
+8. GTA 6 (95%) BIKINI STREAM👙🌶️ !cam2 !s !gooner [0:30]
+   yololaryy · Twitch · 4.7K views · 23h ago
+   https://www.twitch.tv/yololaryy/clip/BoringDistinctCrabsHeyGirl-PVq5mSNu9AIvpFQm
